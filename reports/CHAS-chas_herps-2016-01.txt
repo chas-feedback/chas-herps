@@ -1,0 +1,125 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 861
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-09 ; Times: 5
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 4
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 3
+	Query: "ficimia texas" ; Times: 1
+	Query: "spooneri illinois" ; Times: 2
+	Query: "Micrurus fulvius Arkansas" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 4
+	Query: "Etowah County type:specimen year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 2
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "monster" ; Times: 11
+	Query: "class:amphibia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Farancia abacura Georgia" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "Coluber constrictor Nevada" ; Times: 1
+	Query: "class:Reptilia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Pituophis mugitus" ; Times: 1
+	Query: "hypsiglena oklahoma" ; Times: 1
+	Query: "specificepithet:Ornata genus:Pseudacris stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "gloydi" ; Times: 1
+	Query: "Loding" ; Times: 1
+	Query: "catalognumber:7303 institutioncode:CHAS" ; Times: 2
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "1111 class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Roaring River stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Plestiodon fasciatus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Van Aller" ; Times: 2
+	Query: "spooneri" ; Times: 1
+	Query: "Farancia abacura Texas" ; Times: 1
+	Query: "Lampropeltis elapsoides Georgia" ; Times: 1
+	Query: "nasicus illinois" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "type:specimen specificepithet:obsoleta genus:Pantherophis" ; Times: 1
+	Query: "chas 4943" ; Times: 1
+	Query: "type:specimen specificepithet:emoryi genus:elaphe" ; Times: 1
+	Query: "type:specimen genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "clonophis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 507 download events in this period)
+Total number of records downloaded: 10382
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lichanura" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Anaxyrus compactilis" ; Times: 1
+
+
+End of report.
