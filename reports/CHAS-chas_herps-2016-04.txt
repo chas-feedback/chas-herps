@@ -1,0 +1,191 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 1390
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 120
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-28 ; Times: 16
+	Date: 2016-04-07 ; Times: 6
+	Date: 2016-04-06 ; Times: 5
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 7
+	Date: 2016-04-20 ; Times: 8
+	Date: 2016-04-23 ; Times: 5
+	Date: 2016-04-08 ; Times: 15
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-09 ; Times: 4
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-22 ; Times: 6
+	Date: 2016-04-27 ; Times: 6
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 3
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-10 ; Times: 1
+	Date: 2016-04-11 ; Times: 12
+	Date: 2016-04-12 ; Times: 18
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Massasauga Madison county Illinois" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "(reddington)" ; Times: 1
+	Query: "(Crotalus willardi)" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Chrysemys stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "Crotalus viridis Navajo Arizona" ; Times: 2
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 2
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "order:Squamata county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Chuckwalla pinal county" ; Times: 1
+	Query: "class:Reptilia county:&#34;Monroe&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34; (willardi)" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 3
+	Query: "kinosternon spooneri" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "constrictor nebraska" ; Times: 1
+	Query: "elaphe minnesota" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "crotalus cerberus Pima county" ; Times: 1
+	Query: "coluber nebraska" ; Times: 1
+	Query: "eurycea spelaeus" ; Times: 7
+	Query: "kinosternon subrubrum steindachneri" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "genus:Pseudacris stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "Bufo fowleri stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "ficimia streckeri" ; Times: 4
+	Query: "sceloporus undulatus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "acris gryllus alabama" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "necturus maculosus michigan" ; Times: 1
+	Query: "crotalus mitchelli stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;McLean&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "queen snake" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "monster" ; Times: 19
+	Query: "Crotalus viridis Apache Arizona" ; Times: 4
+	Query: "crotalus horridus maryland" ; Times: 1
+	Query: "genus:Clonophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 2
+	Query: "specificepithet:cerberus genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Michigan&#34;" ; Times: 3
+	Query: "Phrynosoma mcallii Yuma county" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 8
+	Query: "Rosy boa" ; Times: 2
+	Query: "specificepithet:crucifer stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "genus:Crotalus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Monroe&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "chuckwalla Pima county" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "class:Reptilia county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "desert iguana" ; Times: 1
+	Query: "crotalus viridis Navajo county" ; Times: 1
+	Query: "hellbender" ; Times: 3
+	Query: "genus:Chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; (lepidus)" ; Times: 1
+	Query: "genus:Sistrurus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 4
+	Query: "class:Reptilia county:&#34;Mason&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Arizona&#34; (cerberus)" ; Times: 1
+	Query: "Thamnophis rufipunctatus oak creek canyon" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "slender glass lizard" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "Crotalus Apache Arizona" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "clonophis" ; Times: 4
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "order:squamata county:&#34;bee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1312 download events in this period)
+Total number of records downloaded: 9017
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-19 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Massasauga Madison county Illinois" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "genus:Chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "desert iguana" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+
+
+End of report.
