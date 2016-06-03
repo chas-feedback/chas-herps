@@ -1,0 +1,154 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 798
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 62
+	Country: Sweden ; Times: 14
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 6
+	Date: 2016-05-31 ; Times: 5
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 9
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-22 ; Times: 5
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-21 ; Times: 7
+	Date: 2016-05-28 ; Times: 4
+	Date: 2016-05-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Viperidae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pima county chionactis" ; Times: 1
+	Query: "family:Elapidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "fox snake" ; Times: 1
+	Query: "family:Viperidae county:&#34;Piatt&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Yuma county Chionactis" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "family:Viperidae county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "cemophora stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "specificepithet:butleri genus:thamnophis county:&#34;Wayne&#34;" ; Times: 1
+	Query: "(smooth green snake)" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Elaphe vulpina illinois" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lampasas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "salvadora grahamiae new mexico" ; Times: 1
+	Query: "Storeria occipitomaculata stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 2
+	Query: "catalognumber:9183 institutioncode:CHAS" ; Times: 2
+	Query: "Chionactis Pinal county" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 2
+	Query: "Texas alligator lizard" ; Times: 2
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;Wisconsin&#34;" ; Times: 4
+	Query: "Graham county Crotalus pricei" ; Times: 1
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "contortrix pictigaster" ; Times: 1
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "Thamnophis angustirostris" ; Times: 2
+	Query: "crotalus horridus maryland" ; Times: 2
+	Query: "family:Viperidae county:&#34;Jo Daviess&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "crotalus mitchellii county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "family:Elapidae county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Chaves&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:storeria county:&#34;wayne&#34;" ; Times: 1
+	Query: "Crotalus oreganus lutosus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Gartersnake" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "catalognumber:15519 institutioncode:CHAS" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Urosaurus graciosus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rubber Boa" ; Times: 3
+	Query: "Pinal county chuckwalla" ; Times: 1
+	Query: "family:Viperidae county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Sexlineatus indiana" ; Times: 3
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:cerastes genus:Crotalus family:Viperidae county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "notophthalmus viridescens stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Thamnophis butleri county:&#34;Wayne&#34;" ; Times: 2
+	Query: "clonophis" ; Times: 1
+	Query: "Crotalus stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "genus:tantilla class:Reptilia county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;coffee&#34; stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 3
+	Query: "Pantherophis guttata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 327 download events in this period)
+Total number of records downloaded: 1077
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-31 ; Times: 3
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "kinosternon steindachneri" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "kinosternon sonoriense" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "notophthalmus viridescens stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
