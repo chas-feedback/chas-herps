@@ -1,0 +1,104 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 686
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Austria ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 3
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-08 ; Times: 3
+	Date: 2016-09-09 ; Times: 7
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-05 ; Times: 4
+	Date: 2016-09-07 ; Times: 3
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-01 ; Times: 4
+	Date: 2016-09-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 2
+	Query: "Lampropeltis gentilis triangulum" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 5
+	Query: "genus:Sistrurus county:&#34;Pender&#34;" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Scaphiopus hammondii" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "genus:Crocodylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "spea multiplicata fort bliss" ; Times: 1
+	Query: "CHAS-15877" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "coluber lateralis" ; Times: 1
+	Query: "Phrynosoma county:&#34;Santa cruz&#34;" ; Times: 1
+	Query: "(Fish) institutioncode:CHAS" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "Gambelia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Phyllorhynchus stateprovince:&#34;Arizona&#34; (Pinal)" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "anaxyrus compactilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 811 download events in this period)
+Total number of records downloaded: 1259
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 2
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-09 ; Times: 9
+	Date: 2016-09-14 ; Times: 3
+	Date: 2016-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphiopus couchi" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "Rana draytonii" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "fort bliss reptilia" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Phyllorhynchus stateprovince:&#34;Arizona&#34; (Pinal)" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "coluber lateralis" ; Times: 1
+	Query: "Scaphiopus intermontana" ; Times: 1
+	Query: "anaxyrus compactilis" ; Times: 1
+
+
+End of report.
