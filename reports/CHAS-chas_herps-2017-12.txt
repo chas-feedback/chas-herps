@@ -1,0 +1,221 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 254
+Number of records retrieved in searches: 2985
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 245
+	Country: Unknown ; Times: 7
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 12
+	Date: 2017-12-31 ; Times: 14
+	Date: 2017-12-16 ; Times: 3
+	Date: 2017-12-17 ; Times: 32
+	Date: 2017-12-15 ; Times: 5
+	Date: 2017-12-12 ; Times: 9
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-10 ; Times: 6
+	Date: 2017-12-11 ; Times: 22
+	Date: 2017-12-18 ; Times: 6
+	Date: 2017-12-19 ; Times: 4
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-26 ; Times: 5
+	Date: 2017-12-24 ; Times: 3
+	Date: 2017-12-21 ; Times: 4
+	Date: 2017-12-20 ; Times: 3
+	Date: 2017-12-05 ; Times: 13
+	Date: 2017-12-04 ; Times: 16
+	Date: 2017-12-07 ; Times: 16
+	Date: 2017-12-06 ; Times: 13
+	Date: 2017-12-01 ; Times: 7
+	Date: 2017-12-03 ; Times: 9
+	Date: 2017-12-02 ; Times: 15
+	Date: 2017-12-09 ; Times: 4
+	Date: 2017-12-08 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "creek specificepithet:ater family:Iguanidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 4
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "creek family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:squamata county:&#34;pender&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma county:&#34;lake&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "hemidactylium wisconsin" ; Times: 1
+	Query: "pituophis catenifer maricopa arizona" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Pituophis stateprovince:&#34;south carolina&#34; year &gt;= 1901 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:Illinois county:Lake" ; Times: 11
+	Query: "family:Helodermatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "specificepithet:ornata stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "creek family:Anguidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "river family:Kinosternidae stateprovince:&#34;Arizona&#34;" ; Times: 9
+	Query: "agkistrodon MO" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 3
+	Query: "creek family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:Illinois county:Lake" ; Times: 12
+	Query: "genus:anniella county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Sistrurus miliarius barbouri stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "Heterodon platirhinos stateprovince:&#34;SOuth Carolina&#34;" ; Times: 1
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "american crocodile" ; Times: 2
+	Query: "river specificepithet:ater family:Iguanidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 4
+	Query: "Lampropeltis getula stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:Illinois county:Lake" ; Times: 1
+	Query: "crotalus cerastes maricopa arizona" ; Times: 2
+	Query: "sistrurus catenatus catenatus (michigan) institutioncode:CHAS" ; Times: 1
+	Query: "genus:micrurus county:&#34;miami-dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Colubridae Charlotte florida" ; Times: 1
+	Query: "specificepithet:triangulum elapsoides genus:Lampropeltis stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:laterale genus:Ambystoma county:&#34;Lake&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Thamnophis DuPage Illinois" ; Times: 1
+	Query: "creek specificepithet:wislizenii family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "creek specificepithet:collaris family:Crotaphytidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:aeneus genus:aneides hastissue:1" ; Times: 1
+	Query: "4 toed salamander" ; Times: 1
+	Query: "creek family:Kinosternidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "creek family:Viperidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; month &lt;= 520" ; Times: 4
+	Query: "genus:Crotalus catalognumber:4424" ; Times: 2
+	Query: "creek family:Eublepharidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:reynoldsi genus:neoseps" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:Illinois county:Lake" ; Times: 10
+	Query: "specificepithet:ornata class:Amphibia stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Colubridae broward florida" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus hastissue:1" ; Times: 1
+	Query: "genus:Aspidoscelis county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "mudpuppies" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "genus:cemophora stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:sistrurus county:&#34;pender&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "river family:Viperidae stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Florida pituophis" ; Times: 2
+	Query: "crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "heterodon simus north carolina" ; Times: 1
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "PLESTIODON FASCIATUS missouri" ; Times: 1
+	Query: "Lampropeltis getulus Mexico" ; Times: 1
+	Query: "Pituophis melanoleucus north carolina" ; Times: 1
+	Query: "Crotalus pricei stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "Pituophis stateprovince:&#34;Florida&#34;" ; Times: 5
+	Query: "creek specificepithet:suspectum family:Helodermatidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sistrurus catenatus institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:laterale genus:Ambystoma stateprovince:Illinois county:Lake" ; Times: 8
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 7
+	Query: "phyllorhynchus maricopa arizona" ; Times: 1
+	Query: "Sistrurus South carolina" ; Times: 1
+	Query: "specificepithet:mitchelli genus:crotalus hastissue:1" ; Times: 1
+	Query: "Pituophis melanoleucus mugitus" ; Times: 2
+	Query: "Plestiodon fasciatus missouri" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Hemidactylium scutatum stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:Illinois county:Lake" ; Times: 10
+	Query: "necturus wisconsin" ; Times: 31
+	Query: "DRYMARCHON couperi" ; Times: 2
+	Query: "Eurycea quadridigitata Louisiana" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emydoidea stateprovince:Illinois county:Lake" ; Times: 10
+	Query: "specificepithet:triangulum elapsoides genus:Lampropeltis stateprovince:&#34;Florida&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:fuscus county:&#34;Cumberland&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Kinosternon flavescens stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:crotalus hastissue:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:11019" ; Times: 2
+	Query: "Lampropeltis getulus splendida" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;illinois&#34;" ; Times: 4
+	Query: "Tantilla atriceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nerodia harteri Palo Pinto" ; Times: 1
+	Query: "specificepithet:triangulum elapsoides genus:Lampropeltis stateprovince:&#34;Florida&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;miami-dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:triangulum elapsoides genus:Lampropeltis stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "genus:crotalus horridus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Alabama&#34; country:&#34;United States&#34; month &gt;= 8 month &lt;= 11" ; Times: 1
+	Query: "reptilia dragoon" ; Times: 1
+	Query: "specificepithet:sirtalis class:Reptilia county:&#34;yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Pinal&#34;" ; Times: 1
+	Query: "specificepithet:consobrinus genus:sceloporus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Florida&#34; country:&#34;United States&#34; month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "creek specificepithet:ater family:Iguanidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Regina stateprovince:&#34;Illinois&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 674 download events in this period)
+Total number of records downloaded: 2586
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 19
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "eumeces inexpectatus" ; Times: 1
+	Query: "family:Kinosternidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Sauromalus ater vntype:specimen hastissue:1" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "plestiodon inexpectatus" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Helodermatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "family:Eublepharidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 2
+	Query: "vntype:specimen specificepithet:cognatus genus:Anaxyrus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+
+
+End of report.
