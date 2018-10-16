@@ -1,0 +1,217 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 295
+Number of records retrieved in searches: 7557
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 29
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 258
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 36
+	Date: 2018-03-29 ; Times: 16
+	Date: 2018-03-17 ; Times: 8
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-12 ; Times: 8
+	Date: 2018-03-11 ; Times: 5
+	Date: 2018-03-27 ; Times: 22
+	Date: 2018-03-30 ; Times: 6
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-22 ; Times: 5
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 8
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-05 ; Times: 8
+	Date: 2018-03-06 ; Times: 16
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-08 ; Times: 4
+	Date: 2018-03-09 ; Times: 10
+	Date: 2018-03-25 ; Times: 3
+	Date: 2018-03-26 ; Times: 36
+	Date: 2018-03-23 ; Times: 47
+	Date: 2018-03-20 ; Times: 11
+	Date: 2018-03-21 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis elegans county:&#34;alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:necturus county:&#34;Lake&#34; stateprovince:&#34;illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Masticophis specificepithet:bilineatus" ; Times: 5
+	Query: "genus:Tantilla specificepithet:atriceps" ; Times: 5
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 5
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "sistrurus (illinois)" ; Times: 12
+	Query: "genus:sistrurus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 2
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 5
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 6
+	Query: "vntype:specimen order:Anura institutioncode:CHAS" ; Times: 2
+	Query: "Leptodeira texas" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 33
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 5
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 2
+	Query: "rosy boa" ; Times: 1
+	Query: "tantilla maricopa" ; Times: 1
+	Query: "Reptilia Texas wheeler" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 6
+	Query: "Crotalus tigris maricopa" ; Times: 1
+	Query: "Drymarchon stateprovince:&#34;Texas&#34;" ; Times: 7
+	Query: "genus:Micrurus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "broad-headed skink" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "Clonophis kirtlandii stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 2
+	Query: "16171" ; Times: 1
+	Query: "county:&#34;Lasalle&#34; stateprovince:&#34;illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:microscaphus family:Bufonidae institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hasmass:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;El Dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus totonacus" ; Times: 1
+	Query: "Natrix hastissue:1" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 5
+	Query: "blandingii institutioncode:CHAS hastissue:1" ; Times: 1
+	Query: "specificepithet:attenuatus stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "Areolata missouri" ; Times: 4
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 5
+	Query: "genus:crotalus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:gularis genus:Aspidoscelis hastissue:1" ; Times: 1
+	Query: "Pinal county crotalus" ; Times: 1
+	Query: "clemmys guttata hastissue:1" ; Times: 2
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Leon county Florida Crotalus" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;north Carolina&#34;" ; Times: 3
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 2
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "salamander Indiana" ; Times: 1
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 5
+	Query: "Eastern Foxsnake" ; Times: 2
+	Query: "Crotalus totonacus" ; Times: 1
+	Query: "specificepithet:guttata genus:Clemmys hastissue:1" ; Times: 1
+	Query: "after birth" ; Times: 1
+	Query: "Contortrix Oklahoma comanche" ; Times: 4
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:andersonii" ; Times: 6
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Chilomeniscus specificepithet:stramineus" ; Times: 5
+	Query: "ring necked snake" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 2
+	Query: "genus:agkistrodon stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 2
+	Query: "Tantilla maricopa" ; Times: 1
+	Query: "crotalus mitchelli arizona" ; Times: 1
+	Query: "clonophis kirtlandii" ; Times: 6
+	Query: "catalognumber:13463 hastissue:1" ; Times: 1
+	Query: "genus:Rana specificepithet:capito" ; Times: 5
+	Query: "clonophis" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:(texas)" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:catenatus genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Pseudacris streckeri illinoensis" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 7
+	Query: "spea intermontanus" ; Times: 2
+	Query: "Crotalus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 5
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 5
+	Query: "genus:Drymarchon specificepithet:melanurus" ; Times: 6
+	Query: "crotalus mitchelli maricopa" ; Times: 1
+	Query: "sistrurus AND illinois hastissue:1" ; Times: 2
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 4
+	Query: "tantilla Maricopa" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "catalognumber:13908 hastissue:1" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pseudotriton montanus hastissue:1" ; Times: 1
+	Query: "Trimorphodon biscutatus lambda" ; Times: 1
+	Query: "crotaphytus collaris Maricopa" ; Times: 1
+	Query: "eastern massasauga" ; Times: 7
+	Query: "genus:Pantherophis stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:Pituophis specificepithet:ruthveni" ; Times: 5
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1284 download events in this period)
+Total number of records downloaded: 6021
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "clonophis kirtlandii" ; Times: 2
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Crotalus totonacus" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:CHAS" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:shermani genus:plethodon" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Diadophis punctatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
