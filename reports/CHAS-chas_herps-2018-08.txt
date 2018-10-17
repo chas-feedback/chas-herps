@@ -1,0 +1,257 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1624
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 150
+	Country: Sweden ; Times: 10
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 12
+	Date: 2018-08-18 ; Times: 5
+	Date: 2018-08-19 ; Times: 3
+	Date: 2018-08-16 ; Times: 7
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 5
+	Date: 2018-08-10 ; Times: 9
+	Date: 2018-08-11 ; Times: 4
+	Date: 2018-08-02 ; Times: 4
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-03 ; Times: 5
+	Date: 2018-08-17 ; Times: 8
+	Date: 2018-08-27 ; Times: 9
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 5
+	Date: 2018-08-20 ; Times: 3
+	Date: 2018-08-05 ; Times: 29
+	Date: 2018-08-04 ; Times: 9
+	Date: 2018-08-07 ; Times: 7
+	Date: 2018-08-06 ; Times: 21
+	Date: 2018-08-01 ; Times: 5
+	Date: 2018-08-29 ; Times: 6
+	Date: 2018-08-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi" ; Times: 1
+	Query: "specificepithet:infernalis genus:Gerrhonotus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 7
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Brewster&#34;" ; Times: 1
+	Query: "Pituophis Florida" ; Times: 1
+	Query: "county:&#34;lake&#34; stateprovince:&#34;illinois&#34; (apalone spinifera)" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Sistrurus catenatus edwardsii" ; Times: 1
+	Query: "regina grahamii" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Brewster&#34;" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Desmognathus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Heloderma hastissue:1" ; Times: 2
+	Query: "county:&#34;cook&#34; stateprovince:&#34;illinois&#34; (apalone spinifera)" ; Times: 1
+	Query: "elaphe obsoleta mississippi" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti county:&#34;Gulf&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Saluda&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Natrix grahamii" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 6
+	Query: "Agkistrodon piscivorus 100" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "specificepithet:atriceps genus:tantilla country:&#34;United States&#34;" ; Times: 1
+	Query: "Natrix grahami" ; Times: 1
+	Query: "catalognumber:580 institutioncode:CHAS" ; Times: 2
+	Query: "Anaxyrus boreas hastissue:1" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "class:reptilia county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti county:&#34;Martin&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "drymarchon melanurus" ; Times: 3
+	Query: "scaphiopus holbrooki" ; Times: 1
+	Query: "milksnake" ; Times: 1
+	Query: "genus:Gopherus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "horridus north carolina" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "specificepithet:atriceps genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "crotalus pyrrhus arizona" ; Times: 1
+	Query: "Agkistrodon contortrix 100" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Crotalus totonacus" ; Times: 3
+	Query: "Agkistrodon piscivorus conanti county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Indiana necturus" ; Times: 8
+	Query: "specificepithet:lepidus genus:Crotalus locality:Chiricahua county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "chrysemys mississippi" ; Times: 3
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "genus:Crotalus county:&#34;El dorado&#34;" ; Times: 1
+	Query: "specificepithet:picta genus:chrysemys stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Klauberi new mexico" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 2
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon county:&#34;Lake&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "B-3403" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:4174 institutioncode:CHAS" ; Times: 2
+	Query: "Agkistrodon piscivorus conanti county:&#34;Leon&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon county:&#34;lake&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "class:Reptilia county:&#34;Columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "crotalus mitchelli arizona" ; Times: 2
+	Query: "Abyssus" ; Times: 1
+	Query: "Rana septentrionalis Vermont" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Plestiodon county:&#34;cook&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 5
+	Query: "Agkistrodon piscivorus conanti county:&#34;Wakulla&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Rhineura stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+	Query: "Crotalus abyssus" ; Times: 7
+	Query: "genus:Graptemys stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Graptemys pseudogeographica stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus conanti county:&#34;Hendry&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "crotalus willardi" ; Times: 21
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "Scaphiopus intermontana" ; Times: 2
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "St. Marks nerodia" ; Times: 1
+	Query: "micruroides" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 15
+	Query: "genus:Nerodia county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "platirhinos West Virginia" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Rhineura hastissue:1" ; Times: 4
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "specificepithet:kirtlandii genus:Clonophis" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1416 download events in this period)
+Total number of records downloaded: 18687
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 29
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 5
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-09 ; Times: 9
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-10 ; Times: 13
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-17 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 3
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Opheodrys OR Liochlorophis sex:male OR female" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "hELODERMA" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:cirrigera genus:eurycea" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "genus:Sonora sex:male OR female" ; Times: 1
+	Query: "Sceloporus spinosus spinosus" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "specificepithet:wilderae genus:eurycea" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeiana genus:Rana hastissue:1" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Plestiodon tetragrammus tetragrammus" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Agkistrodon conanti" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "class:Reptilia county:&#34;Columbia&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Rana septentrionalis Vermont" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "brazos county agkistrodon" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+
+
+End of report.
