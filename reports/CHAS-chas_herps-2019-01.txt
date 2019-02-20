@@ -1,0 +1,222 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 224
+Number of records retrieved in searches: 3512
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 187
+	Country: Sweden ; Times: 14
+	Country: Belgium ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 21
+	Date: 2019-01-18 ; Times: 6
+	Date: 2019-01-19 ; Times: 30
+	Date: 2019-01-14 ; Times: 9
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-30 ; Times: 8
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 7
+	Date: 2019-01-11 ; Times: 6
+	Date: 2019-01-12 ; Times: 6
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-02 ; Times: 13
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-07 ; Times: 5
+	Date: 2019-01-06 ; Times: 3
+	Date: 2019-01-05 ; Times: 5
+	Date: 2019-01-04 ; Times: 14
+	Date: 2019-01-21 ; Times: 31
+	Date: 2019-01-20 ; Times: 11
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 3
+	Date: 2019-01-24 ; Times: 8
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-16 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:picta genus:Chrysemys stateprovince:&#34;Illinois&#34; institutioncode:CHAS hastissue:1" ; Times: 2
+	Query: "Reptilia south carolina richland" ; Times: 2
+	Query: "family:Anguidae institutioncode:CHAS hastissue:1" ; Times: 1
+	Query: "Reptilia minnesota houston" ; Times: 3
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 4
+	Query: "Reptilia Illinois boone" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia Wisconsin marquette" ; Times: 1
+	Query: "gilberti mohave" ; Times: 2
+	Query: "Emydoidea blandingii wisconsin" ; Times: 1
+	Query: "Sistrurus catenatus edwardsii" ; Times: 3
+	Query: "family:Bufonidae county:&#34;victoria&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:fowleri genus:Bufo county:&#34;Lake&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Masticophis schotti" ; Times: 2
+	Query: "specificepithet:fowleri genus:Bufo county:&#34;Porter&#34; stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "crotalus pricei arizona" ; Times: 1
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Vernalis wisconsin" ; Times: 20
+	Query: "Reptilia Wisconsin columbia" ; Times: 4
+	Query: "specificepithet:picta genus:Chrysemys county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "15059" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 5
+	Query: "specificepithet:bilineatus genus:masticophis locality:portal stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 2
+	Query: "genus:Gerrhonotus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Nasicus Oklahoma" ; Times: 1
+	Query: "Micrurus arkansas" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 1
+	Query: "specificepithet:geographica genus:Graptemys stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "trempealeau" ; Times: 1
+	Query: "specificepithet:fowleri genus:Bufo stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "genus:masticophis locality:portal stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Crotalus willardi stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Reptilia wisconsin columbia" ; Times: 2
+	Query: "specificepithet:fowleri genus:Bufo county:&#34;Lake&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "clemmys wisconsin" ; Times: 8
+	Query: "specificepithet:grahamiae genus:Salvadora county:&#34;cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:pseudobranchus stateprovince:&#34;georgia&#34;" ; Times: 11
+	Query: "specificepithet:fowleri genus:Anaxyrus county:&#34;Lake&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "sonora semiannulata coconino" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "pseudacris crucifer alabama" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;McLennan&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia texas waller" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:coluber locality:8" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Jim Wells&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus Missouri" ; Times: 2
+	Query: "Reptilia Georgia jasper" ; Times: 1
+	Query: "pyromelana pima" ; Times: 1
+	Query: "specificepithet:modestum genus:phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "T. proximus" ; Times: 1
+	Query: "glyptemys wisconsin" ; Times: 2
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia Arkansas hempstead" ; Times: 1
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:CHAS" ; Times: 1
+	Query: "Opheodrys Illinois jefferson" ; Times: 1
+	Query: "specificepithet:guttata genus:Clemmys hastissue:1" ; Times: 1
+	Query: "vntype:specimen institutioncode:CHAS hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys county:&#34;Lake&#34; stateprovince:&#34;illinois&#34; institutioncode:CHAS" ; Times: 2
+	Query: "Reptilia Texas jasper" ; Times: 3
+	Query: "Vernalis illinois" ; Times: 12
+	Query: "specificepithet:tigris genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34; institutioncode:CHAS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "emys" ; Times: 1
+	Query: "chionactis annulata sonora" ; Times: 1
+	Query: "Deirochelys" ; Times: 2
+	Query: "specificepithet:picta genus:Chrysemys county:&#34;DuPage&#34; stateprovince:&#34;illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "1950 genus:Sauromalus" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Reptilia Wisconsin Sauk" ; Times: 2
+	Query: "salvadora greenlee" ; Times: 1
+	Query: "clemmys indiana" ; Times: 2
+	Query: "Glyptemys wisconsin" ; Times: 3
+	Query: "family:colubridae catalognumber:11956" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys county:&#34;Lake&#34; stateprovince:&#34;Illinois&#34; institutioncode:CHAS hastissue:1" ; Times: 2
+	Query: "specificepithet:pricei genus:Crotalus county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Comanche&#34; stateprovince:&#34;Oklahoma&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "elaphe columbia" ; Times: 3
+	Query: "specificepithet:picta genus:chrysemys county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "rhineura" ; Times: 1
+	Query: "Louisiana pine snake" ; Times: 1
+	Query: "specificepithet:guttata family:Emydidae hastissue:1" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys institutioncode:CHAS hastissue:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:fowleri genus:Anaxyrus county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 3
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "Emydoidea Wisconsin" ; Times: 1
+	Query: "american crocodile" ; Times: 2
+	Query: "class:reptilia county:&#34;washington&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "chionactis occipitalis sonora" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "texas tortoise" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys county:&#34;Lake&#34; stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Reptilia Wisconsin dane" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "alligator lizard" ; Times: 3
+	Query: "Farancia Missouri" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys stateprovince:&#34;illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys county:&#34;McHenry&#34; stateprovince:&#34;illinois&#34; institutioncode:CHAS" ; Times: 2
+	Query: "Leon county Heterodon" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys stateprovince:&#34;wisconsin&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:picta genus:chrysemys county:&#34;lake&#34; stateprovince:&#34;illinois&#34; institutioncode:CHAS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 962 download events in this period)
+Total number of records downloaded: 1130
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Iran ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "family:Anguidae institutioncode:CHAS hastissue:1" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 2
+	Query: "class:Amphibia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "siren intermedia" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+
+
+End of report.
