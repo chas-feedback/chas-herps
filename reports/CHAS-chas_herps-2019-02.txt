@@ -1,0 +1,188 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 1950
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 99
+	Country: Sweden ; Times: 10
+	Country: Germany ; Times: 8
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-23 ; Times: 9
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-10 ; Times: 8
+	Date: 2019-02-13 ; Times: 4
+	Date: 2019-02-12 ; Times: 9
+	Date: 2019-02-15 ; Times: 5
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 7
+	Date: 2019-02-18 ; Times: 12
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-03 ; Times: 8
+	Date: 2019-02-26 ; Times: 8
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-20 ; Times: 13
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-09 ; Times: 7
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 5
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34; year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:Maculatum genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:horridus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "grotto salamander" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 8
+	Query: "specificepithet:Holbrookii genus:Scaphiopus hastissue:1" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 3
+	Query: "genus:Ambystoma stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Salvadora hastissue:1" ; Times: 2
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Aneides tennessee" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "genus:Gastrophryne stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Gerrhonotus multicarinata" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:catenatus institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Reeves&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lithobates areolata" ; Times: 2
+	Query: "Gerrhonotus coerulea" ; Times: 1
+	Query: "Aneides kentucky" ; Times: 1
+	Query: "Leptotyphlops dissectus" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 9
+	Query: "genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:holbrooki genus:Scaphiopus hastissue:1" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;arkansas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "indigo snake" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eastern diamondback rattlesnake" ; Times: 2
+	Query: "thamnophis eques stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gopher tortoise" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Agkistrodon contortrix pictigaster" ; Times: 1
+	Query: "Western Shovel-nosed snake" ; Times: 1
+	Query: "Spea intermontana county:&#34;Lincoln&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "genus:Plestiodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 4
+	Query: "Heterodon kennerlyi" ; Times: 2
+	Query: "texas tortoise" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "genus:Crotalus county:&#34;real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus hastissue:1" ; Times: 3
+	Query: "Heterodon simus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Reeves&#34; stateprovince:&#34;Texas&#34; institutioncode:CHAS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "specificepithet:lacertina stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "alligator lizard" ; Times: 4
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 2
+	Query: "Aspidoscelis stictogrammus" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "genus:Scaphiopus stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "salt marsh snake" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 3
+	Query: "specificepithet:lepidus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Drymarchon corais AND (melanurus) NOT (couperi)" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 8
+	Query: "genus:Scaphiopus stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1227 download events in this period)
+Total number of records downloaded: 994
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 25
+	Country: Israel ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-11 ; Times: 11
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eastern diamondback rattlesnake" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma haslifestage:1" ; Times: 1
+	Query: "Agkistrodon conanti" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "desmognathus imitator" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "Heterodon kennerlyi" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "xantusia arizonae" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Aspidoscelis stictogrammus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+
+
+End of report.
