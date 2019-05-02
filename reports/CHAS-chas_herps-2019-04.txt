@@ -1,0 +1,251 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 2861
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 114
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 66
+	Country: Germany ; Times: 6
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-19 ; Times: 4
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-05 ; Times: 17
+	Date: 2019-04-13 ; Times: 3
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 4
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 10
+	Date: 2019-04-16 ; Times: 9
+	Date: 2019-04-15 ; Times: 12
+	Date: 2019-04-14 ; Times: 10
+	Date: 2019-04-30 ; Times: 5
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 9
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-06 ; Times: 11
+	Date: 2019-04-04 ; Times: 4
+	Date: 2019-04-23 ; Times: 6
+	Date: 2019-04-20 ; Times: 8
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 18
+	Date: 2019-04-27 ; Times: 3
+	Date: 2019-04-24 ; Times: 7
+	Date: 2019-04-03 ; Times: 6
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 8
+	Date: 2019-04-08 ; Times: 20
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 3
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Parker&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Winslow sceloporus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;El dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Lavaca&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:sistrurus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "san diego gopher snake" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Lexington&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "c894945b-0803-4cbe-8f13-b001c4ecaa96" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus county:&#34;Mariposa&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Houston&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "&#34;Sonora taylori&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Buchanan&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Squamata class:Reptilia county:&#34;Sarpy&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:anura stateprovince:&#34;florida&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "rosy boa" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 3
+	Query: "order:Squamata class:Reptilia county:&#34;Gage&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Lexington&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;McLennan&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Arizona Winslow Navajo Sceloporus" ; Times: 1
+	Query: "scaphiopus hammondi" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 9
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "crotalus cerberus" ; Times: 4
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "lampropeltis elapsoides georgia" ; Times: 1
+	Query: "sistrurus iowa" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Arizona night lizard" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;McLennan&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:holbrooki genus:Scaphiopus hastissue:1" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 3
+	Query: "specificepithet:capito family:ranidae AND (NOT sevosa) institutioncode:CHAS" ; Times: 1
+	Query: "sistrurus stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "specificepithet:atriceps genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "agkistrodon contortrix missouri" ; Times: 5
+	Query: "Amphibia Texas willacy" ; Times: 2
+	Query: "Rosy boa" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Frio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Triangulum stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "navajo county Phrynosoma" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sauromalus inyo county" ; Times: 1
+	Query: "order:Squamata class:Reptilia county:&#34;Stafford&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus klauberi" ; Times: 2
+	Query: "10313" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Iowa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon hastissue:1" ; Times: 1
+	Query: "Sistrurus catenatus; Ohio" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "navajo county crotaphytus" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; Pituophis" ; Times: 9
+	Query: "specificepithet:capito family:ranidae institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "Opheodrys vernalis blanchardi" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ohio Sistrurus catenatus" ; Times: 1
+	Query: "crotalus oreganus abyssus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Cemophora missouri" ; Times: 1
+	Query: "specificepithet:texanum genus:ambystoma stateprovince:&#34;missouri&#34;" ; Times: 4
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Chesterfield&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Burlington&#34; stateprovince:&#34;New Jersey&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;El Dorado&#34;" ; Times: 1
+	Query: "Reptilia Texas willacy" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "contortrix missouri" ; Times: 8
+	Query: "Pseudacris illinoensis" ; Times: 1
+	Query: "urosaurus wickenburg" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;McLennan&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alligator lizard" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Washington&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "contortrix kansas" ; Times: 1
+	Query: "catalognumber:11203 institutioncode:CHAS" ; Times: 2
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34; institutioncode:CHAS" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trimorphodon biscutatus lambda" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Tarrant&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "order:anura institutioncode:CHAS" ; Times: 5
+	Query: "genus:siren hastissue:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1263 download events in this period)
+Total number of records downloaded: 7279
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 35
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-20 ; Times: 4
+	Date: 2019-04-21 ; Times: 3
+	Date: 2019-04-27 ; Times: 3
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "specificepithet:exsanguis genus:Aspidoscelis" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "Sonora episcopa" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:neomexicana genus:Aspidoscelis" ; Times: 1
+	Query: "Xantusia Arizona" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "specificepithet:tesselatus genus:Aspidoscelis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:velox genus:Aspidoscelis" ; Times: 1
+	Query: "order:anura institutioncode:CHAS" ; Times: 1
+	Query: "xantusia arizonae" ; Times: 2
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Aspidoscelis" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+
+
+End of report.
