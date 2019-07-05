@@ -1,0 +1,232 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 177
+Number of records retrieved in searches: 3095
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 165
+	Country: Algeria ; Times: 5
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 3
+	Date: 2019-06-21 ; Times: 7
+	Date: 2019-06-23 ; Times: 3
+	Date: 2019-06-25 ; Times: 2
+	Date: 2019-06-08 ; Times: 4
+	Date: 2019-06-09 ; Times: 3
+	Date: 2019-06-06 ; Times: 11
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-05 ; Times: 9
+	Date: 2019-06-02 ; Times: 9
+	Date: 2019-06-03 ; Times: 4
+	Date: 2019-06-01 ; Times: 4
+	Date: 2019-06-26 ; Times: 5
+	Date: 2019-06-27 ; Times: 1
+	Date: 2019-06-28 ; Times: 5
+	Date: 2019-06-19 ; Times: 2
+	Date: 2019-06-18 ; Times: 4
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-15 ; Times: 2
+	Date: 2019-06-17 ; Times: 9
+	Date: 2019-06-16 ; Times: 2
+	Date: 2019-06-11 ; Times: 65
+	Date: 2019-06-10 ; Times: 13
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sceloporus stateprovince:&#34;North Carolina&#34; hastissue:1" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:nigrita" ; Times: 1
+	Query: "Lampropeltis Pyromelana" ; Times: 1
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 1
+	Query: "genus:Masticophis specificepithet:bilineatus" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla specificepithet:atriceps" ; Times: 1
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 1
+	Query: "genus:Leptodeira specificepithet:septentrionalis" ; Times: 1
+	Query: "elaphe vulpina wisconsin marathon" ; Times: 2
+	Query: "genus:Opheodrys specificepithet:vernalis" ; Times: 1
+	Query: "genus:Rhadinaea specificepithet:flavilata" ; Times: 1
+	Query: "genus:Xantusia specificepithet:arizonae" ; Times: 1
+	Query: "genus:clonophis stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 1
+	Query: "heloderma hastissue:1" ; Times: 1
+	Query: "CHAS 1011" ; Times: 1
+	Query: "lampropeltis Alabama" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "scientificname: Thamnophis eques AND county: Grant" ; Times: 1
+	Query: "elaphe vulpina wisconsin" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 13
+	Query: "order:Squamata county:&#34;Red River&#34; stateprovince:&#34;texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Pyromelana" ; Times: 2
+	Query: "genus:Plestiodon specificepithet:septentrionalis" ; Times: 1
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 1
+	Query: "genus:Micruroides specificepithet:euryxanthus" ; Times: 1
+	Query: "Crotalus mitchelli yavapai county" ; Times: 2
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "toad oregon" ; Times: 2
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 2
+	Query: "Gila monster Arizona" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 4
+	Query: "Scaphiopus holbrooki" ; Times: 1
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus county:&#34;burlington&#34; stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 1
+	Query: "LAMPROPELTIS PYROMELANA" ; Times: 1
+	Query: "specificepithet:Horridus genus:Crotalus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Georgia&#34; hastissue:1" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;South Carolina&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:Contortrix genus:Agkistrodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "sternotherus odoratus hastissue:1" ; Times: 2
+	Query: "elaphe vulpina wisconsin langlade" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Kentucky&#34; hastissue:1" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "elaphe vulpina" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Eurycea specificepithet:lucifuga" ; Times: 1
+	Query: "genus:Heterodon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Elaphe stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:blainvillii" ; Times: 1
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 1
+	Query: "catalognumber:8473 institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:anthracinus" ; Times: 1
+	Query: "Thamnophis eques megalops" ; Times: 1
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "catalognumber:11309 institutioncode:CHAS" ; Times: 2
+	Query: "&#34;Brenham&#34;" ; Times: 1
+	Query: "Pituophis missouri" ; Times: 3
+	Query: "genus:Hemidactylium specificepithet:scutatum" ; Times: 1
+	Query: "genus:Elgaria specificepithet:kingii" ; Times: 1
+	Query: "sistrurus tergeminus catenatus" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 1
+	Query: "genus:Phrynosoma specificepithet:solare" ; Times: 1
+	Query: "genus:Urosaurus specificepithet:graciosus" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d sternotherus odoratus" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:egregius" ; Times: 1
+	Query: "genus:Deirochelys specificepithet:reticularia" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:consobrinus" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:tetragrammus" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Tennessee&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "genus:Hyla specificepithet:andersonii" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Thamnophis specificepithet:rufipunctatus" ; Times: 2
+	Query: "genus:Chilomeniscus specificepithet:stramineus" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 1
+	Query: "genus:Farancia stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "genus:Graptemys specificepithet:geographica" ; Times: 1
+	Query: "genus:Regina specificepithet:alleni" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 1
+	Query: "catalognumber:2176 institutioncode:CHAS" ; Times: 2
+	Query: "genus:opheodrys stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "lampropeltis gentilis" ; Times: 2
+	Query: "genus:Plestiodon specificepithet:callicephalus" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 1
+	Query: "genus:Rana specificepithet:capito" ; Times: 1
+	Query: "Crotalus mitchelli arizona" ; Times: 1
+	Query: "specificepithet:mcallii genus:Phrynosoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Emydoidea specificepithet:blandingii" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 2
+	Query: "specificepithet:catesbeiana stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Bexar&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:ornata" ; Times: 2
+	Query: "genus:Kinosternon specificepithet:baurii" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 1
+	Query: "catalognumber:16448" ; Times: 1
+	Query: "genus:Cemophora specificepithet:coccinea" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "genus:Drymarchon specificepithet:melanurus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "snake turkey" ; Times: 2
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 2
+	Query: "specificepithet:catenatus genus:sistrurus stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "salvadora oak creek" ; Times: 2
+	Query: "genus:Plestiodon specificepithet:laticeps" ; Times: 1
+	Query: "genus:Clonophis specificepithet:kirtlandii" ; Times: 1
+	Query: "genus:Bogertophis specificepithet:subocularis" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Gila monster" ; Times: 1
+	Query: "arizona kingsnake" ; Times: 1
+	Query: "genus:Gerrhonotus specificepithet:infernalis" ; Times: 1
+	Query: "genus:Pituophis specificepithet:ruthveni" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis county:&#34;pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rhadinaea flavilata alabama" ; Times: 2
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "genus:Storeria specificepithet:victa" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1182 download events in this period)
+Total number of records downloaded: 1381
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 27
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "American bullfrog" ; Times: 1
+	Query: "Gila monster" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "(american bullfrog)" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "Farancia" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "scientificname: Thamnophis eques AND county: Grant" ; Times: 1
+	Query: "newt" ; Times: 5
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "SNAILS" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+	Query: "toad oregon" ; Times: 1
+
+
+End of report.
