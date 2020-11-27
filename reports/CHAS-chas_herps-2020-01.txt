@@ -1,0 +1,236 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 344
+Number of records retrieved in searches: 2467
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Pakistan ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 5
+	Country: South Korea ; Times: 1
+	Country: United States ; Times: 323
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-09 ; Times: 6
+	Date: 2020-01-29 ; Times: 18
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-23 ; Times: 24
+	Date: 2020-01-08 ; Times: 9
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-18 ; Times: 128
+	Date: 2020-01-19 ; Times: 6
+	Date: 2020-01-14 ; Times: 5
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 8
+	Date: 2020-01-17 ; Times: 14
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-12 ; Times: 3
+	Date: 2020-01-13 ; Times: 12
+	Date: 2020-01-31 ; Times: 17
+	Date: 2020-01-30 ; Times: 50
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marnockii genus:Eleutherodactylus" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 6
+	Query: "specificepithet:capito genus:Rana" ; Times: 1
+	Query: "genus:Pseudotriton county:&#34;madison&#34; stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "lampropeltis miami-dade" ; Times: 2
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "locality:gentilly stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "eastern diamondback rattlesnake" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "specificepithet:sexlineatus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "HERP-13731" ; Times: 1
+	Query: "specificepithet:quadramaculatus genus:desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Terrapene ornata mexico" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;PIMA&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "coluber cameron county texas" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:totonacus genus:Crotalus" ; Times: 1
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus" ; Times: 1
+	Query: "CHAS 13731" ; Times: 2
+	Query: "Rana draytonii 303" ; Times: 4
+	Query: "Aspidoscelis xanthonotus" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis hastissue:1" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "h. nichols" ; Times: 5
+	Query: "Scaphiopus holbrooki" ; Times: 2
+	Query: "american crocodile" ; Times: 1
+	Query: "storeria dekayi georgia" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "Rana draytonii 1296" ; Times: 5
+	Query: "Rana draytonii 1297" ; Times: 5
+	Query: "Apalone spinifera Texas" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "genus:Rhadinaea hastissue:1" ; Times: 2
+	Query: "blandingii Emydoidea" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "h nichols" ; Times: 3
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Terrapene ornata illinois" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Rana draytonii 15" ; Times: 4
+	Query: "lampropeltis elapsoides miami-dade" ; Times: 1
+	Query: "Rana draytonii 16" ; Times: 4
+	Query: "Rana draytonii 11" ; Times: 4
+	Query: "Rana draytonii 10" ; Times: 4
+	Query: "Rana draytonii 18" ; Times: 4
+	Query: "genus:Callisaurus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Rana" ; Times: 1
+	Query: "Rana draytonii 2016" ; Times: 6
+	Query: "Dwarf siren" ; Times: 1
+	Query: "smooth green snake stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "h e nichols" ; Times: 1
+	Query: "pretiosa Rana" ; Times: 1
+	Query: "ficimia texas" ; Times: 2
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 138
+	Query: "genus:Lampropeltis stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Rana draytonii 1240" ; Times: 5
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Reptilia troostii" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "locality:gentilly" ; Times: 1
+	Query: "Rana draytonii 30" ; Times: 4
+	Query: "pseudotriton montanus Tennessee" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Monroe&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:kalmi genus:Pseudacris" ; Times: 1
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 2
+	Query: "Aspidoscelis stictogrammus" ; Times: 1
+	Query: "genus:nerodia county:&#34;lampasas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coluber constrictor hidalgo county texas" ; Times: 1
+	Query: "ophisaurus jackson" ; Times: 1
+	Query: "specificepithet:chiricahuensis genus:Rana" ; Times: 1
+	Query: "Coluber constrictor cameron county texas" ; Times: 2
+	Query: "specificepithet:grylio genus:Rana" ; Times: 1
+	Query: "Rana draytonii 1939" ; Times: 5
+	Query: "specificepithet:areolata genus:Rana" ; Times: 1
+	Query: "genus:holbrookia county:&#34;atascosa&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "CHAS 15242" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris" ; Times: 1
+	Query: "lampropeltis calligaster iowa" ; Times: 1
+	Query: "HERP-15242" ; Times: 1
+	Query: "blandingii illinois" ; Times: 2
+	Query: "smooth green snake" ; Times: 2
+	Query: "arizona elegans occidentalis" ; Times: 1
+	Query: "Rana draytonii 1295" ; Times: 5
+	Query: "Rana draytonii 1" ; Times: 2
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "Rana draytonii 4" ; Times: 4
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;owen&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:egregius family:Scincidae stateprovince:&#34;Alabama&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1584 download events in this period)
+Total number of records downloaded: 1725
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-25 ; Times: 11
+	Date: 2020-01-16 ; Times: 2
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ficimia texas" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Aspidoscelis xanthonotus" ; Times: 1
+	Query: "Plestiodon multivirgatus" ; Times: 1
+	Query: "Plestiodon callicephalus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:areolata family:ranidae" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Aspidoscelis sackii" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "Holbrookia elegans" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "Aspidoscelis velox" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "coniophanes imperialis texas" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 3
+	Query: "rana draytonii" ; Times: 1
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "smooth green snake stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "Aspidoscelis stictogrammus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Sceloporus marmoratus" ; Times: 1
+
+
+End of report.
