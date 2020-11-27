@@ -1,0 +1,280 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 192
+Number of records retrieved in searches: 2319
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 133
+	Country: Sweden ; Times: 45
+	Country: Argentina ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 5
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 5
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-26 ; Times: 10
+	Date: 2019-10-25 ; Times: 5
+	Date: 2019-10-24 ; Times: 9
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 2
+	Date: 2019-10-06 ; Times: 4
+	Date: 2019-10-23 ; Times: 16
+	Date: 2019-10-22 ; Times: 26
+	Date: 2019-10-29 ; Times: 6
+	Date: 2019-10-18 ; Times: 10
+	Date: 2019-10-19 ; Times: 5
+	Date: 2019-10-12 ; Times: 13
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 11
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-31 ; Times: 14
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Thamnophis rufipunctatus 2015" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2016" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hyde&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Buncombe&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chas delaware herp" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Grady&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chas virginia herp" ; Times: 1
+	Query: "family:Anguidae order:Squamata class:Reptilia stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 2
+	Query: "specificepithet:amoenus genus:carphophis hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "chas herp delaware conant" ; Times: 1
+	Query: "family:Scincidae order:Squamata class:Reptilia stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Storeria Missouri" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "Storeria dekayi (Missouri OR Arkansas OR Illinois OR Mississippi OR Louisiana) hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; (massasauga)" ; Times: 1
+	Query: "mazon creek" ; Times: 2
+	Query: "notophthalmus viridescens stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Decatur&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sonora episcopa" ; Times: 1
+	Query: "Grotto Salamander" ; Times: 2
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Decatur&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Shelby&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus oreganus concolor" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Currituck&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "clemmys guttata stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 2
+	Query: "specificepithet:hernandesi genus:phrynosoma institutioncode:CHAS hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:11893 institutioncode:CHAS" ; Times: 1
+	Query: "sistrurus arizona" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "crotalus klauberi new mexico" ; Times: 1
+	Query: "crotalus lepidus new mexico" ; Times: 1
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Shelby&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Mobile&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Massasauga" ; Times: 1
+	Query: "specificepithet:kennerlyi genus:heterodon family:colubridae order:squamata class:reptilia stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Orleans&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Drymarchon couperi 2015" ; Times: 1
+	Query: "Drymarchon couperi 2016" ; Times: 1
+	Query: "Eastern coral snake" ; Times: 2
+	Query: "stateprovince:&#34;Nebraska&#34; collectioncode:Herpetology institutioncode:CHAS" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Grady&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Barbour&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 1
+	Query: "family:Teiidae order:Squamata class:Reptilia stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Neoseps reynoldsi 2016" ; Times: 1
+	Query: "Neoseps reynoldsi 2015" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "kirtlandii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma hastissue:1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "spiny softshell" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "Rough green snake tennessee" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Hyde&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "genus:Diadophis county:&#34;clay&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chas herp maryland conant" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;McDuffie&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chas maryland conant" ; Times: 1
+	Query: "crotalus willardi" ; Times: 16
+	Query: "chas maryland herp" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Pickens&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis county:&#34;Clay&#34; stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus tennessee" ; Times: 3
+	Query: "pyromelana" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Crotalus county:&#34;santa barbara&#34;" ; Times: 2
+	Query: "family:Anguidae order:Squamata class:Reptilia institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Clemmys stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 1
+	Query: "Rana draytonii 2016" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Mississippi&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Lee&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Storeria dekayi Missouri" ; Times: 2
+	Query: "specificepithet:woodhousii county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "chas delaware herp conant" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Charlton&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "notophthalmus viridescens county:&#34;Blount&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sceloporus order:Squamata class:Reptilia stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus county:&#34;Knox&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "chas herp virginia" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "illinoensis Pseudacris" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:marnockii" ; Times: 1
+	Query: "nerodia harteri" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Squamata class:Reptilia stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Santa barbara&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chas herp delaware" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Lee&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:laticeps order:Squamata class:Reptilia stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Maryland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Pickens&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2002" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Mobile&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Grady&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Tuscaloosa&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pictigaster" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Charlton&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nerodia erythrogaster Tennessee" ; Times: 6
+	Query: "specificepithet:laterale genus:ambystoma stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Alabama&#34; institutioncode:CHAS basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 1308 download events in this period)
+Total number of records downloaded: 3403
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Saudi Arabia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 27
+	Country: United States ; Times: 29
+	Country: Rwanda ; Times: 1
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-03 ; Times: 16
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "family:Anguidae order:Squamata class:Reptilia stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:sylvatica genus:Rana hastissue:1" ; Times: 1
+	Query: "specificepithet:horridus genus:crotalus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:tesselatus genus:Aspidoscelis" ; Times: 1
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Mississippi&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "chuckwalla" ; Times: 2
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "genus:gyrinophilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "wisconsin turtle" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 1
+	Query: "yonahlossee" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+
+
+End of report.
