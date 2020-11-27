@@ -1,0 +1,219 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 202
+Number of records retrieved in searches: 1444
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: United States ; Times: 188
+	Country: Senegal ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-05 ; Times: 11
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-03 ; Times: 18
+	Date: 2020-02-01 ; Times: 11
+	Date: 2020-02-20 ; Times: 5
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-23 ; Times: 3
+	Date: 2020-02-08 ; Times: 12
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 6
+	Date: 2020-02-11 ; Times: 22
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 11
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-15 ; Times: 5
+	Date: 2020-02-14 ; Times: 22
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 6
+	Date: 2020-02-18 ; Times: 10
+	Date: 2020-02-02 ; Times: 26
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:callicephalus" ; Times: 1
+	Query: "genus:carphophis institutioncode:CHAS hastissue:1" ; Times: 2
+	Query: "Micruroides euryxanthus" ; Times: 2
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 2
+	Query: "genus:Gyrinophilus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Rhinocheilus lecontei hidalgo" ; Times: 1
+	Query: "pine snake stateprovince:&#34;tennessee&#34; (pine snake)" ; Times: 1
+	Query: "Rana aurora draytonii 2016" ; Times: 1
+	Query: "illinois Micrurus" ; Times: 4
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "organ pipe family:Teiidae class:Reptilia county:&#34;pima&#34;" ; Times: 2
+	Query: "specificepithet:guttata stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "eastern diamondback rattlesnake stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Sonora semiannulata taylori texas hidalgo" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "thamnophis sirtalis infernalis hastissue:1" ; Times: 1
+	Query: "specificepithet:callicephalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "apalone spinifera texas" ; Times: 3
+	Query: "rosy boa" ; Times: 2
+	Query: "leptodeira texas" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 1
+	Query: "Rana draytonii 303" ; Times: 3
+	Query: "specificepithet:vermis genus:carphophis hastissue:1" ; Times: 3
+	Query: "specificepithet:sylvatica genus:rana county:&#34;cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:palarostris genus:chionactis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Owen&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "Rana draytonii 1296" ; Times: 5
+	Query: "Rana draytonii 1297" ; Times: 5
+	Query: "Rana draytonii 1295" ; Times: 5
+	Query: "sistrurus texas jim hogg" ; Times: 1
+	Query: "specificepithet:clamitans stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "california kingsnake" ; Times: 3
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "sistrurus stateprovince:&#34;ohio&#34;" ; Times: 3
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "thamnophis hammondii hastissue:1" ; Times: 1
+	Query: "specificepithet:tigris family:viperidae" ; Times: 2
+	Query: "Rana draytonii 15" ; Times: 3
+	Query: "Rana draytonii 16" ; Times: 3
+	Query: "Rana draytonii 11" ; Times: 3
+	Query: "Rana draytonii 10" ; Times: 3
+	Query: "Rana draytonii 2015" ; Times: 7
+	Query: "Rana draytonii 18" ; Times: 3
+	Query: "specificepithet:tener genus:Micrurus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "(Lithobates ) hastypestatus:1 hastissue:1" ; Times: 1
+	Query: "spinifera texas" ; Times: 4
+	Query: "specificepithet:scripta stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:microscaphus stateprovince:&#34;Arizona&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Rana draytonii 1240" ; Times: 5
+	Query: "emydoidea blanding" ; Times: 2
+	Query: "California kingsnake" ; Times: 2
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "agkistrodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "genus:Clonophis" ; Times: 1
+	Query: "Sonora semiannulata texas hidalgo" ; Times: 2
+	Query: "Crotalus totonacus" ; Times: 1
+	Query: "Rana draytonii 2016" ; Times: 7
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;monroe&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "Apalone spinifera texas" ; Times: 1
+	Query: "Aspidoscelis xanthonota" ; Times: 3
+	Query: "Rana aurora draytonii 2015" ; Times: 1
+	Query: "specificepithet:vermis genus:carphophis stateprovince:&#34;missouri&#34; hastissue:1" ; Times: 2
+	Query: "Rana draytonii 30" ; Times: 3
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "velox maricopa" ; Times: 2
+	Query: "Michigan genus:Necturus" ; Times: 6
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "bullsnake" ; Times: 1
+	Query: "apalone spinifera emoryi texas" ; Times: 1
+	Query: "Red spotted toad" ; Times: 1
+	Query: "specificepithet:palarostris genus:chionactis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rana draytonii 1939" ; Times: 5
+	Query: "heterodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "(Urosaurus ornatus) hastypestatus:1 hastissue:1" ; Times: 2
+	Query: "rubber boa" ; Times: 2
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 11
+	Query: "Rana draytonii 4" ; Times: 3
+	Query: "Rana draytonii 1" ; Times: 1
+	Query: "Rana draytonii 0" ; Times: 1
+	Query: "agkistrodon stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;owen&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:ater genus:sauromalus county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1023 download events in this period)
+Total number of records downloaded: 1183
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 34
+	Country: Senegal ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-15 ; Times: 5
+	Date: 2020-02-28 ; Times: 9
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "specificepithet:andersonii family:Hylidae" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "specificepithet:palarostris genus:chionactis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "deirochelys" ; Times: 2
+	Query: "emydoidea blanding" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "thamnophis hammondii hastissue:1" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "thamnophis ordinoides stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:callicephalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "genus:Ambystoma lifestage:larvae" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 7
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "thamnophis atratus stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+
+
+End of report.
