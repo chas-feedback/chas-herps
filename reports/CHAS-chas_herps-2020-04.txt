@@ -1,0 +1,435 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 810
+Number of records retrieved in searches: 12963
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Egypt ; Times: 2
+	Country: Unknown ; Times: 20
+	Country: United States ; Times: 774
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 60
+	Date: 2020-04-04 ; Times: 10
+	Date: 2020-04-23 ; Times: 15
+	Date: 2020-04-06 ; Times: 24
+	Date: 2020-04-22 ; Times: 29
+	Date: 2020-04-05 ; Times: 61
+	Date: 2020-04-20 ; Times: 128
+	Date: 2020-04-07 ; Times: 34
+	Date: 2020-04-26 ; Times: 11
+	Date: 2020-04-01 ; Times: 16
+	Date: 2020-04-24 ; Times: 32
+	Date: 2020-04-25 ; Times: 17
+	Date: 2020-04-28 ; Times: 67
+	Date: 2020-04-29 ; Times: 19
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-09 ; Times: 12
+	Date: 2020-04-27 ; Times: 28
+	Date: 2020-04-02 ; Times: 8
+	Date: 2020-04-03 ; Times: 10
+	Date: 2020-04-19 ; Times: 40
+	Date: 2020-04-18 ; Times: 28
+	Date: 2020-04-13 ; Times: 5
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 3
+	Date: 2020-04-10 ; Times: 21
+	Date: 2020-04-17 ; Times: 26
+	Date: 2020-04-16 ; Times: 29
+	Date: 2020-04-15 ; Times: 30
+	Date: 2020-04-14 ; Times: 23
+	Date: 2020-04-30 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dulcis genus:Leptotyphlops stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:means genus:Amphiuma stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "year &gt;= 1950 year &lt;= 1951 institutioncode:CHAS" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 50
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "acris gryllus mississippi" ; Times: 2
+	Query: "Ambystoma institutioncode:CHAS" ; Times: 2
+	Query: "year &gt;= 1970 year &lt;= 1972 institutioncode:CHAS" ; Times: 1
+	Query: "genus:cemophora stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "crotalus indiana" ; Times: 6
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "FICIMIA STRECKERI" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Cherokee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "specificepithet:punctatus genus:diadophis county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "scincella lateralis mississippi" ; Times: 2
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Stoddard&#34; stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Desoto&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia year &gt;= 1945 year &lt;= 1950 institutioncode:CHAS" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:stephensi genus:Crotalus" ; Times: 2
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM)" ; Times: 3
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Aspidoscelis sexlineatus (Aspidoscelis sexlineatus Florida)" ; Times: 2
+	Query: "stateprovince:&#34;illinois&#34; year &gt;= 1950 year &lt;= 1953 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:reptilia year &gt;= 1950 year &lt;= 1955 institutioncode:CHAS" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia county:&#34;Sioux&#34; stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 267
+	Query: "specificepithet:ruber genus:pseudotriton stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:decurtatus county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;georgia&#34;" ; Times: 3
+	Query: "specificepithet:cirrigera genus:Eurycea stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:marcianus genus:thamnophis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "county:&#34;cook&#34; year &gt;= 1920 year &lt;= 1925 institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Nacogdoches&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pseudacris crucifer Leake County" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Carroll&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 1985 institutioncode:CHAS" ; Times: 5
+	Query: "Pituophis ruthveni" ; Times: 2
+	Query: "crotalus horridus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Ellsworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "sceloporus undulatus mississippi" ; Times: 2
+	Query: "year &gt;= 1950 year &lt;= 1955 institutioncode:CHAS" ; Times: 6
+	Query: "specificepithet:constrictor genus:coluber county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "notophthalmus viridescens mississippi" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Bollinger&#34; stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Grady&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "pituophis north carolina" ; Times: 1
+	Query: "pituophis wisconsin" ; Times: 5
+	Query: "year &gt;= 1980 year &lt;= 1983 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "crucifer mississippi" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "genus:ficimia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Greene&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 4
+	Query: "genus:Diadophis county:&#34;Hendry&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Kinosternon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; year &gt;= 1800 year &lt;= 1985 institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:odoratus genus:Sternotherus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:virginia county:&#34;osage&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Pseudotriton stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "pituophis jefferson" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Bolivar&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:brevis genus:coleonyx hastissue:1" ; Times: 2
+	Query: "specificepithet:vernalis genus:Opheodrys stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "specificepithet:clamitans genus:rana county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "genus:Ficimia country:&#34;United States&#34;" ; Times: 1
+	Query: "bufo fowleri mississippi" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "anolis carolinensis mississippi" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;MIchigan&#34;" ; Times: 3
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "sceloporus undulatus madison county mississippi" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; year &gt;= 1800 year &lt;= 2020 institutioncode:CHAS" ; Times: 3
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "year &gt;= 1980 year &lt;= 1985 institutioncode:CHAS" ; Times: 4
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon class:Reptilia county:&#34;Currituck&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea county:&#34;Parke&#34; stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Dare&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Clonophis stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "genus:virginia county:&#34;tulsa&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon lengthtype:total length haslength:1" ; Times: 4
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Rana sphenocephala arkansas" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Currituck&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Desmognathus auriculatus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Wayne&#34; stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34;" ; Times: 3
+	Query: "(Ambystoma) institutioncode:CHAS" ; Times: 9
+	Query: "specificepithet:quercicus genus:Anaxyrus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Illinois&#34;" ; Times: 3
+	Query: "genus:Lampropeltis county:&#34;Barton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 1985 institutioncode:CHAS" ; Times: 1
+	Query: "lampropeltis triangulum gentilis" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Ellsworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "year &gt;= 1896 year &lt;= 1896 institutioncode:CHAS" ; Times: 1
+	Query: "opheodrys aestivus mississippi" ; Times: 1
+	Query: "Micrurus alabama" ; Times: 2
+	Query: "Escambia county Heterodon" ; Times: 1
+	Query: "Sceloporus undulatus mississippi" ; Times: 2
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:striatula genus:virginia county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "chas 7918" ; Times: 2
+	Query: "little brown skink" ; Times: 1
+	Query: "slender glass lizard institutioncode:CHAS" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 20
+	Query: "genus:Diadophis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:ruthveni genus:Pituophis" ; Times: 1
+	Query: "genus:Ophisaurus county:&#34;Knox&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;cook&#34; year &gt;= 1945 year &lt;= 1950 institutioncode:CHAS" ; Times: 3
+	Query: "class:Reptilia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; year &gt;= 1800 year &lt;= 2020 institutioncode:CHAS" ; Times: 14
+	Query: "specificepithet:tener genus:Micrurus" ; Times: 1
+	Query: "genus:thamnophis county:&#34;comanche&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Rana sphenocephala mississippi" ; Times: 1
+	Query: "scincella lateralis louisiana" ; Times: 1
+	Query: "specificepithet:cerastes county:&#34;kern&#34;" ; Times: 3
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;Alameda&#34;" ; Times: 1
+	Query: "bufo americanus louisiana" ; Times: 2
+	Query: "year &gt;= 1978 year &lt;= 1985 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "county:&#34;cook&#34; year &gt;= 1970 year &lt;= 1975 institutioncode:CHAS" ; Times: 1
+	Query: "cryptobranchus county:&#34;westmoreland&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus county:&#34;madison&#34; stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "year &gt;= 1850 year &lt;= 1855 institutioncode:CHAS" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Shelby&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "pseudacris crucifer mississippi" ; Times: 2
+	Query: "class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Parker&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rana sphenocephala Mississippi" ; Times: 1
+	Query: "pituophis grant wisconsin" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jackson&#34; stateprovince:&#34;Illinois&#34;" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:lucifuga genus:Eurycea stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "genus:Agkistrodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "Ficimia streckeri" ; Times: 3
+	Query: "genus:Apalone ferox stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:ornata genus:terrapene stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Rhode Island&#34;" ; Times: 2
+	Query: "clemsonae" ; Times: 1
+	Query: "nerodia fasciata mississippi" ; Times: 1
+	Query: "class:amphibia county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; year &gt;= 1800 year &lt;= 2020 institutioncode:CHAS" ; Times: 5
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Decatur&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:storeria stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "bicknell vntype:specimen" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "coluber constrictor mississippi" ; Times: 1
+	Query: "year &gt;= 1950 year &lt;= 1953 institutioncode:CHAS" ; Times: 2
+	Query: "chelydra serpentina mississippi" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Rockland&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Jefferson&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "rana sphenocephala arkansas" ; Times: 2
+	Query: "rana clamitans mississippi" ; Times: 1
+	Query: "class:Reptilia county:&#34;Saluda&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "specificepithet:sphenocephala genus:rana county:&#34;madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Virginia striatula Madison county Mississippi" ; Times: 1
+	Query: "genus:phrynosoma order:Squamata county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "year &gt;= 1950 year &lt;= 1954 institutioncode:CHAS" ; Times: 3
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hendry&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia county:&#34;Yellowstone&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "plestiodon fasciatus mississippi" ; Times: 1
+	Query: "heterodon stateprovince:&#34;west virginia&#34;" ; Times: 1
+	Query: "year &gt;= 1930 year &lt;= 1960 institutioncode:CHAS hastypestatus:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "kinosternon subrubrum mississippi" ; Times: 2
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM) institutioncode:CHAS" ; Times: 1
+	Query: "genus:Sonora stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "storeria dekayi louisiana" ; Times: 1
+	Query: "genus:hyla county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:terrestris genus:anaxyrus county:&#34;madison&#34; stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "year &gt;= 1975 year &lt;= 1985 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:agkistrodon county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:Stephensi genus:Crotalus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "hyla femoralis escambia county florida" ; Times: 1
+	Query: "class:reptilia year &gt;= 1900 year &lt;= 1945 institutioncode:CHAS" ; Times: 1
+	Query: "Massasauga" ; Times: 2
+	Query: "class:Reptilia county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Union&#34; stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "softshell turtle institutioncode:CHAS" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 4
+	Query: "rana catesbeiana mississippi" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Mobile&#34; stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:clamitans genus:Rana stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:sexlineata stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Eleutherodactylus marnockii" ; Times: 1
+	Query: "genus:Carphophis stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "year &gt;= 1945 year &lt;= 1945 month &gt;= 9 month &lt;= 12 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "year &gt;= 1980 year &lt;= 1984 institutioncode:CHAS" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Kinosternon subrubrum mississippi" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon class:Reptilia county:&#34;Berkeley&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:ferox genus:Apalone stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:sphenocephala genus:Rana county:&#34;madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon lengthtype:total length haslength:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "rana sphenocephala mississippi" ; Times: 3
+	Query: "glyptemys insculpta" ; Times: 35
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "acris crepitans mississippi" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Montana&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 82 (out of 1171 download events in this period)
+Total number of records downloaded: 3489
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 15
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 60
+	Country: Netherlands ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 6
+	Date: 2020-04-18 ; Times: 8
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 5
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-27 ; Times: 4
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 6
+	Date: 2020-04-06 ; Times: 10
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-29 ; Times: 20
+	Date: 2020-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:spiloides genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Saluda&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:ruthveni genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Pantherophis spiloides" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "class:Reptilia county:&#34;Greenville&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:stephensi genus:Crotalus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:shermani genus:Plethodon" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 2
+
+
+End of report.
