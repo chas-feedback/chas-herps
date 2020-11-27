@@ -1,0 +1,172 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 2203
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: France ; Times: 2
+	Country: United States ; Times: 65
+	Country: Sweden ; Times: 30
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 14
+	Date: 2019-12-26 ; Times: 2
+	Date: 2019-12-23 ; Times: 3
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 6
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 8
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-14 ; Times: 2
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-09 ; Times: 10
+	Date: 2019-12-08 ; Times: 8
+	Date: 2019-12-07 ; Times: 18
+	Date: 2019-12-06 ; Times: 5
+	Date: 2019-12-05 ; Times: 9
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "recordnumber:pa" ; Times: 1
+	Query: "testudines institutioncode:CHAS" ; Times: 4
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bolivar&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:vigilis class:reptilia county:&#34;riverside&#34;" ; Times: 1
+	Query: "genus:Micrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:carphophis stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Lawrence&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis triangulum gentilis" ; Times: 1
+	Query: "specificepithet:ater class:reptilia county:&#34;inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vigilis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Trigg&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Missouri&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Eagle institutioncode:CHAS hastissue:1" ; Times: 1
+	Query: "Natrix natrix haslength:1" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Lyon&#34; stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Lawrence&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis triangulum hasmass:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Leake&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "genus:Lampropeltis getula stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Kentucky&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "genus:crotalus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:carolinensis genus:anolis stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Bolivar&#34; stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Missouri&#34;" ; Times: 9
+	Query: "specificepithet:septemvittata genus:Regina stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "Lampropeltis triangulum haslength:1" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "specificepithet:quercicus genus:Anaxyrus" ; Times: 2
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "recordnumber:pa year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis hastissue:1" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:cirrigera genus:Eurycea stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:diadophis stateprovince:&#34;oklahoma&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:kirtlandii genus:Clonophis stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:compactilis genus:Anaxyrus" ; Times: 2
+	Query: "ambystoma tiginum" ; Times: 1
+	Query: "Massasauga" ; Times: 10
+	Query: "genus:clemmys stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Garrett&#34; stateprovince:&#34;Maryland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cognatus genus:Anaxyrus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 596 download events in this period)
+Total number of records downloaded: 2309
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Belgium ; Times: 7
+	Country: Australia ; Times: 3
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 7
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-05 ; Times: 11
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "testudines institutioncode:CHAS" ; Times: 2
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina stateprovince:&#34;Illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "anniella pulchra" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris class:Amphibia" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Emydoidea blanding" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
