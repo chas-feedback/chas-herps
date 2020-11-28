@@ -1,0 +1,135 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 890
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 99
+	Country: Sweden ; Times: 29
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-23 ; Times: 5
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-25 ; Times: 1
+	Date: 2020-06-08 ; Times: 6
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 9
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-05 ; Times: 11
+	Date: 2020-06-02 ; Times: 16
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 31
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-28 ; Times: 30
+	Date: 2020-06-10 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sistrurus county:&#34;Allegan&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jackson&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 4
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Parke&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "smooth green snake" ; Times: 1
+	Query: "Oklahoma cemophorA" ; Times: 8
+	Query: "genus:Micruroides county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:aspidoscelis county:&#34;pinal&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Diemictylus" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scarlet snake in Missouri" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Oceana&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Crawford&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "year &gt;= 1975 year &lt;= 1980 institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "bull frog" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brown&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Muskegon&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Iosco&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Monroe&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Lexington&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus hassex:1 hastissue:1" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Berrien&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis hastissue:1" ; Times: 2
+	Query: "Clonophis Kirtlandii" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "scientificname:emydoidea blandingii" ; Times: 37
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Owen&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "Crotalus abyssus" ; Times: 1
+	Query: "Thamnophis eques megalops" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Venango&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Cameron&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Micruroides county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 474 download events in this period)
+Total number of records downloaded: 354
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Oregon salamanders" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "american alligator" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "locality:kentucky" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "bull frog" ; Times: 1
+
+
+End of report.
