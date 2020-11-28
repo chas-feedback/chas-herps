@@ -1,0 +1,247 @@
+Report for Institution Code CHAS, Resource chas_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 2874
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 3
+	Country: United States ; Times: 191
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 9
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-20 ; Times: 14
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 5
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 15
+	Date: 2020-07-05 ; Times: 12
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 6
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 25
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-10 ; Times: 4
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 60
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-17 ; Times: 4
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus ruber Palm springs" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 4
+	Query: "Plethodon dunni" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "huachuca crotalus pricei" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "gbifdatasetid:4f2d0b57-2862-4f0b-94c7-d78cc3c58a1d" ; Times: 6
+	Query: "genus:micrurus county:&#34;dade&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:Tigrinum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Nerodia erythrogaster Barton missouri" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "thamnophis radix south dakota" ; Times: 1
+	Query: "sistrurus miliarius stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "crotalus lepidus klauberi new mexico" ; Times: 1
+	Query: "family:Colubridae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 2
+	Query: "stateprovince:&#34;Ohio&#34; (lampropeltis) AND (triangulum)" ; Times: 1
+	Query: "specificepithet:pyromelana county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "(Clonophis)" ; Times: 1
+	Query: "Aneides hardii" ; Times: 7
+	Query: "Desmognathus auriculatus" ; Times: 4
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "Pine Snake Tennessee" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 3
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Red bellied snake Tennessee" ; Times: 1
+	Query: "family:Emydidae county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 11
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Nerodia rhombifer barton missouri" ; Times: 1
+	Query: "Crocodylus acutus 2015" ; Times: 2
+	Query: "red spotted toad" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 2
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "willardi arizona" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 4
+	Query: "Clonophis kirtlandii" ; Times: 9
+	Query: "monster" ; Times: 3
+	Query: "Nerodia Missouri" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:Tigrinum genus:Ambystoma county:&#34;Dickson&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "MAR 8559" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Nerodia rhombifer Missouri" ; Times: 1
+	Query: "specificepithet:lateralis class:reptilia stateprovince:&#34;California&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "miliarius arkansas" ; Times: 2
+	Query: "specificepithet:maculosus genus:necturus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "genus:Diadophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sistrurus stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Sonora semiannulata texas Hidalgo" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Pseudotriton montanus" ; Times: 3
+	Query: "Desmognathus carolinensis" ; Times: 3
+	Query: "Storeria Tennessee" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 2
+	Query: "genus:Ophisaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Bakersfield county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "Nerodia rhombifer Jasper" ; Times: 1
+	Query: "cryptobranchus county:&#34;westmoreland&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Nerodia erythrogaster Barton Missouri" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 4
+	Query: "Vipers hybrid" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 3
+	Query: "xantusia arizonae" ; Times: 1
+	Query: "genus:Heterodon county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "pipiens missouri" ; Times: 3
+	Query: "Nerodia rhombifer Barton Missouri" ; Times: 1
+	Query: "Lampropeltis triangulum elapsoides" ; Times: 2
+	Query: "heterodon kennerlyi" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; (lampropeltis)" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "crotalus mitchelli" ; Times: 2
+	Query: "Roberts-Coe" ; Times: 2
+	Query: "hyla versicolor wisconsin" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 3
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "Agkistrodon contortrix laticinctus" ; Times: 3
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus willardi arizona" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "thamnophis eques arizona" ; Times: 2
+	Query: "Pseudacris illinoensis" ; Times: 1
+	Query: "specificepithet:fowleri genus:Anaxyrus hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Ohio&#34; (Clonophis)" ; Times: 1
+	Query: "Massasauga" ; Times: 2
+	Query: "Pseudemys Illinois" ; Times: 1
+	Query: "genus:salvadora hastissue:1" ; Times: 2
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 3
+	Query: "Thamnophis rufipunctatus" ; Times: 1
+	Query: "opheodrys vernalis wisconsin" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Plethodon shermani" ; Times: 2
+	Query: "Pituophis stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 2
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "heterodon arizona" ; Times: 1
+	Query: "Pseudacris kalmi" ; Times: 2
+	Query: "Nerodia MO" ; Times: 1
+	Query: "Apalone spinifera wisconsin" ; Times: 1
+	Query: "crotalus willardi willardi arizona" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 940 download events in this period)
+Total number of records downloaded: 12279
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Vietnam ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "Aspidoscelis sacki" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "specificepithet:douglassii genus:phrynosoma" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "opheodrys vernalis wisconsin" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus ricordii&#34;" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "hyla versicolor wisconsin" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1950" ; Times: 1
+
+
+End of report.
